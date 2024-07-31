@@ -1,0 +1,6 @@
+Hdd: $2450 
+Mainboard: $10460 
+SMPS: $820 
+Cables: $380 
+Cabinet: $180
+UPS: $2450 

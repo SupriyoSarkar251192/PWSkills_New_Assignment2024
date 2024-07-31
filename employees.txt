@@ -1,0 +1,3 @@
+Employee name: Suman, Age: 35, Salary: 14000 
+Employee name: Raghav, Age: 42, Salary: 22000 
+Employee name: Zaman, Age: 39, Salary: 19000 

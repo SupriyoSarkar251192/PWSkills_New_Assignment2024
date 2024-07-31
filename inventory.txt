@@ -1,0 +1,7 @@
+There are five basic reasons for keeping an inventory:
+Time: The time lags present in the supply chain, from supplier to user at every stage, requires that you maintain certain amounts of inventory to use in this lead time. However, in practice, inventory is to be maintained for consumption during 'variations in lead time'. Lead time itself can be addressed by ordering that many days in advance.[5]
+Seasonal demand: Demands varies periodically, but producers capacity is fixed. This can lead to stock accumulation, consider for example how goods consumed only in holidays can lead to accumulation of large stocks on the anticipation of future consumption.
+Uncertainty: Inventories are maintained as buffers to meet uncertainties in demand, supply and movements of goods.
+Economies of scale: Ideal condition of "one unit at a time at a place where a user needs it, when he needs it" principle tends to incur lots of costs in terms of logistics. So bulk buying, movement and storing brings in economies of scale, thus inventory.
+Appreciation in value: In some situations, some stock gains the required value when it is kept for some time to allow it reach the desired standard for consumption, or for production. For example, beer in the brewing industry.
+All these stock reasons can apply to any owner or product
